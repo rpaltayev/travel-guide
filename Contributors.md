@@ -2,3 +2,4 @@
 - [ido-netaneli](https://github.com/ido-netaneli)
 - [ngodi](https://github.com/ngodi)
 - [Pierre Khoury](https://github.com/PierreDeveloper18)
+- [rpaltayev](https://github.com/rpaltayev)
